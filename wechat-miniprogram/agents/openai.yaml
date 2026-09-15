@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信小程序开发"
+  short_description: "按官方框架规范开发微信小程序"
+  default_prompt: "使用 $wechat-miniprogram 按微信官方框架规范完成这个小程序任务。"
